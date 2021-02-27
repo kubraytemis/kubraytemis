@@ -3,7 +3,7 @@
 🔭 I’m currently working on C#(Windows Forms App)
 
 
-🌱 I’m looking for help with artificial intelligence
+🌱 I’m looking for help with Artificial İntelligence.
 
 <!--
 **kubraytemis/kubraytemis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
