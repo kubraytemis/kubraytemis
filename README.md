@@ -1,6 +1,6 @@
 
 
-🔭 I’m currently working on PYTHON,  C# (.NET FRAMEWORK)
+🔭 I’m currently working on PYTHON,  C# (.NET FRAMEWORK), javascript
 
 
 🌱 I’m looking for help with Artificial İntelligence.
