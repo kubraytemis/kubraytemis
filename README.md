@@ -5,6 +5,11 @@
 
 🌱 I’m looking for help with Artificial İntelligence.
 
+
+📫 How to reach me: ''https://www.linkedin.com/in/kübra- aytemiş-9a762417a'' or  ''kubraytemis@gmail.com''
+
+
+
 <!--
 **kubraytemis/kubraytemis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
