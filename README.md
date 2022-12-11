@@ -6,7 +6,7 @@
 🌱 I’m looking for help with Artificial İntelligence.
 
 
-📫 How to reach me: ''https://www.linkedin.com/in/kübra- aytemiş-9a762417a'' or  ''kubraytemis@gmail.com''
+📫 How to reach me: ''kubraytemis@gmail.com''
 
 
 
